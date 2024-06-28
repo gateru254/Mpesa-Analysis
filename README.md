@@ -1,0 +1,2 @@
+This project aims to perform a comprehensive analysis of my  M-Pesa transaction data for six months  to uncover trends, patterns, and insights that can help me  understand my  user behavior, transaction dynamics, and the overall impact of M-Pesa on financial inclusion and economic activities. 
+M-Pesa, a mobile money transfer service, is widely used in several countries, particularly in Kenya, where it has revolutionized financial services.
